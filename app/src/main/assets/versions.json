@@ -1,0 +1,63 @@
+{
+	"AndroidVersions": {
+		"VersionsList": [{
+			"Name": "Alpha",
+			"Api": "1.0"
+		},
+		{
+			"Name": "Beta",
+			"Api": "1.1"
+		},
+		{
+			"Name": "CupCake",
+			"Api": "1.5"
+		},
+		{
+			"Name": "Donut",
+			"Api": "1.6"
+		},
+		{
+			"Name": "Eclair",
+			"Api": "2.0 - 2.1"
+		},
+		{
+			"Name": "Froyo",
+			"Api": "2.2 - 2.2.3"
+		},
+		{
+			"Name": "Gingerbread",
+			"Api": "2.3 – 2.3.7"
+		},
+		{
+			"Name": "Honeycomb",
+			"Api": "3.0 – 3.2.6"
+		},
+		{
+			"Name": "Ice Cream Sandwich",
+			"Api": "4.0 – 4.0.4"
+		},
+		{
+			"Name": "Jelly Bean",
+			"Api": "4.1 – 4.3.1"
+		},
+		{
+			"Name": "KitKat",
+			"Api": "4.4 – 4.4.4"
+		},
+		{
+			"Name": "Lollipop",
+			"Api": "5.0 – 5.1.1"
+		},
+		{
+			"Name": "Marshmallow",
+			"Api": "6.0 – 6.0.1"
+		},
+		{
+			"Name": "Nougat",
+			"Api": "7.0 – 7.1.1"
+		}
+			]
+}
+
+	
+}
